@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio19 {
+public class BankTransition {
   /**
    * 19. Faça um programa que simule uma conta bancária. A conta inicia com o saldo zerado. 
    * Inicialmente, o programa mostra ao usuário o seguinte menu de opções:
